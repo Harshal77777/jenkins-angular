@@ -1,1 +1,1 @@
-
+kill $(cat .pidfile)
